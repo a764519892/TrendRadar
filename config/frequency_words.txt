@@ -8,6 +8,9 @@ DeepSeek
 鸿蒙
 HarmonyOS
 任正非
+电脑
+芯片
+大模型
 
 比亚迪
 王传福
